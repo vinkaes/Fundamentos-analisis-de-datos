@@ -19,6 +19,12 @@ Se utilizó Visual Studio Code con el lenguaje de Python para poder efectuar el 
 
 ### Aprendizajes
 
+Los principales aprendizajes alcanzados fueron:
+-	Aplicar la programación orientada a objetos.
+-	Definir funciones (métodos).
+-	Automatizar procesos.
+
+
 ### Métricas
 
 ### Habilidades técnicas aplicadas

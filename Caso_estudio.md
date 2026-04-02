@@ -1,11 +1,21 @@
 # Caso de estudio: ABP M3 
 
-Breve descripción de la actividad o tarea.
-○ Desafío principal que implicaba.
-○ Solución propuesta.
+### Descripción
 
-Herramienta técnica utilizada para el desarrollo.
-○ Principales aprendizajes alcanzados.
-○ Métricas de impacto logradas (por ejemplo: tiempo de resolución, mejoras funcionales, efi ciencia, cobertura, etc.).
-○ Habilidades técnicas aplicadas.
-○ Justifi cación de por qué elegiste este proyecto para formar parte de tu portafolio.
+Este proyecto se centra en la elaboración de un sistema de contactos en Python para poder gestionar los datos de los clientes. Las principales funciones del sistema son: agregar, editar, buscar y eliminar contactos.
+
+### Desafío principal
+
+Implementar una solución de Python con definición de clases siguiendo los principios de la programación orientada a objetos y poder registrar datos utilizando listas y diccionarios.
+
+### Solución propuesta
+
+### Herramienta utilizada
+
+### Aprendizajes
+
+### Métricas
+
+### Habilidades técnicas aplicadas
+
+### Justificación del proyecto en el portafolio

@@ -14,6 +14,5 @@ Portafolio con los proyectos finales del bootcamp de Fundamentos de Análisis de
 </p>
 
 ## :telephone_receiver: Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/vinka-encina-santibáñez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinka-encina-santibáñez)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/vinkaes)

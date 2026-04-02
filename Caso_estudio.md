@@ -15,6 +15,8 @@ También, establecer la función *main* para poder automatizar el sistema de con
 
 ### Herramienta utilizada
 
+Se utilizó Visual Studio Code con el lenguaje de Python para poder efectuar el sistema de contactos.
+
 ### Aprendizajes
 
 ### Métricas

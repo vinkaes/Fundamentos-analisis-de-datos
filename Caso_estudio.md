@@ -10,6 +10,9 @@ Implementar una solución de Python con definición de clases siguiendo los prin
 
 ### Solución propuesta
 
+Crear la clase *Contacto* para definir la lista que almacenará los diccionarios con los datos del cliente y los métodos con las funciones de agregar, editar, buscar y eliminar contactos.
+También, establecer la función *main* para poder automatizar el sistema de contactos con los recursos creados en la clase.
+
 ### Herramienta utilizada
 
 ### Aprendizajes

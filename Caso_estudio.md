@@ -24,9 +24,16 @@ Los principales aprendizajes alcanzados fueron:
 -	Definir funciones (métodos).
 -	Automatizar procesos.
 
-
 ### Métricas
+
+-	Tiempo de ciclo: Tiempo del proceso de gestión de registros.
+-	Capacidad de procesamiento: Cantidad de contactos registrados en el sistema.
+-	Horas-Hombre Liberadas: Cantidad de horas que el usuario ya no invierte en el registro manual de contactos.
 
 ### Habilidades técnicas aplicadas
 
+La principal habilidad técnica utilizada fue el uso del lenguaje de Python.
+
 ### Justificación del proyecto en el portafolio
+
+Se escogió este proyecto para formar parte de tu portafolio, ya que, muestra el primer acercamiento a Python, lo cual sirvió como base para los demás proyectos de preparación y exploración de datos. 

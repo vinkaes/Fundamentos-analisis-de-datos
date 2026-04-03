@@ -1,4 +1,4 @@
-# :open_file_folder: Portafolio de Fundamentos de Análisis de datos
+# :open_file_folder: Portafolio de Fundamentos de análisis de datos
 
 Portafolio con los proyectos finales del bootcamp de Fundamentos de Análisis de datos.
 
